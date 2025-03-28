@@ -1,0 +1,74 @@
+body{
+    background-color: lightblue;
+
+}
+a{
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    margin-left: 40px;
+}
+div{
+    background-color: navy;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    
+}
+.container{
+    display:flex;
+    align-items: center;
+    justify-content:center;
+    background-color: navy;
+    padding:40px; 
+    width: 1000px;
+    height: 400px;
+
+}
+.container2{
+    display:block;
+    align-items: center;
+    justify-content:left;
+    background-color: navy;
+    padding:40px; 
+    width: 400px;
+   
+}
+.remember-me{
+    background-color: lightblue;;
+
+}
+label, input, h2, h3 {
+    color:white
+}
+section{
+    background-color: transparent;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+   
+
+}
+.input{
+    width:400px;
+    height: 40px;
+    margin:10px; 
+    background-color: lightblue;
+    border-style: none;
+}
+.input1{
+    width: 400px;
+    height: 40px;
+    margin:10px;
+    background-color: green;
+}
+.input2{
+    color:red;
+    width:400px; 
+}
+.anchor{
+    color:red; 
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+}
+
